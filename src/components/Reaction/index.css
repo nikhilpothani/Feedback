@@ -1,0 +1,21 @@
+.reaction-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+.reaction-button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.logo {
+  width: 80px;
+}
+.reaction-text {
+  font-family: 'Roboto';
+  color: #1e293b;
+  margin-top: 20px;
+  font-size: 14px;
+}
